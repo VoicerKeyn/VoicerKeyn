@@ -87,22 +87,6 @@ goal:       "Стать мастером кода 侍"
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
 </div>
 
-<!-- ═══════════════════ ЗМЕЙКА ═══════════════════ -->
-
-## 🐉 龍 — Граф активности
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/VoicerKeyn/VoicerKeyn/output/github-snake-dark.svg" alt="Snake animation" />
-
-<sub>Каждый коммит — взмах катаны ⚔️</sub>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-</div>
-
 <!-- ═══════════════════ ЦЕЛИ ═══════════════════ -->
 
 ## 🎯 目標 — Мои цели
@@ -112,6 +96,7 @@ goal:       "Стать мастером кода 侍"
 | ⛩️ Цель | 🗡️ Статус |
 |:---|:---|
 | Освоить основы **C** | 🔴 В процессе |
+| Написать первый проект на **Python** | 🔴 В процессе |
 | Разобраться с **SQL** и базами данных | 🔴 В процессе |
 | Собрать портфолио на GitHub | 🟡 Начато |
 | Пройти стажировку | ⚪ Впереди |
